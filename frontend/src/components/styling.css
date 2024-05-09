@@ -1,0 +1,28 @@
+.main{
+    background-color: black;
+    color: rgb(31, 108, 3);
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+  }
+
+.body {
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    flex-direction: row;
+    
+}
+
+.tasks{
+    padding: 2rem;
+    margin: 2rem;
+}
+
+.addTask{
+    margin-bottom: 6rem;
+}
